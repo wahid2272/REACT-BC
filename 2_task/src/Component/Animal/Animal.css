@@ -1,0 +1,21 @@
+/* .animalcard {
+	border-radius: 5x;
+	background: whitesmoke;
+  box-shadow: wheat;
+  margin: 5px;
+}
+
+.animalcard img {
+	height: 200px;
+} */
+
+.animalCard {
+  background: #f4f4f4;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #333;
+  padding: 1rem;
+}
+
+.animalCard img {
+  max-height: 200px;
+}
