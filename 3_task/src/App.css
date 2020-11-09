@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(6, 194, 116);
+  padding: 1rem;
+  min-height: calc(100vh - 240px);
+}
+
+.circle {
+  height: 250px;
+  width: 250px;
+  line-height: 250px;
+  border-radius: 50%;
+  background-color: darkolivegreen;
+}
+
+.even {
+  height: 250px;
+  width: 250px;
+  line-height: 250px;
+  border-radius: 50%;
+  background-color: rgb(33, 123, 158);
+}
+
+.odd {
+  height: 250px;
+  width: 250px;
+  line-height: 250px;
+  border-radius: 50%;
+  background-color: rgb(149, 149, 64);
+}
+
+button {
+  padding: .70rem;
+  box-shadow: none;
+  margin: 1rem;
+  border: none;
+  background: lightgray;
+  border-radius: 5px;
+  font-size: 1rem;
+}
